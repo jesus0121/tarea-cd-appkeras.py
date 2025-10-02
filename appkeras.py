@@ -32,7 +32,7 @@ st.title("Dibuja un número")
 canvas_result = st_canvas(
     fill_color="#FFFFFF",           # blanco
     stroke_width=10,
-    stroke_color="#000000",         # negro
+    stroke_color="#12",         # negro
     background_color="#FFFFFF",
     height=280,
     width=280,
