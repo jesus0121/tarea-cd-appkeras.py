@@ -30,7 +30,7 @@ modelo = load_model_from_file(modelo_seleccionado)
 # ---- Lienzo ----
 st.title("Dibuja un número")
 canvas_result = st_canvas(
-    fill_color="#FFFFFF",           # blanco
+    fill_color="#balck",           # blanco
     stroke_width=10,
     stroke_color="#12",         # negro
     background_color="#FFFFFF",
