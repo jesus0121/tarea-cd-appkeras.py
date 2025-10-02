@@ -38,10 +38,10 @@ if not all([modelo_d1, modelo_c2, modelo_c3]):
 # Lienzo para dibujar
 st.subheader("🖌 Dibuja un número")
 canvas_result = st_canvas(
-    fill_color="white",
+    fill_color="black",
     stroke_width=10,
     stroke_color="black",
-    background_color="white",
+    background_color="black",
     height=280,
     width=280,
     drawing_mode="freedraw",
